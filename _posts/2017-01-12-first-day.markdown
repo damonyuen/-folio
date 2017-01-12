@@ -1,7 +1,6 @@
 ---
 layout: post
 title: First Day
-date: {}
 description: 'march & april, looking forward to summer'
 published: true
 ---
