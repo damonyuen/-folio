@@ -9,4 +9,40 @@ published: true
 
 ## I'm happy
 
+
+### Change Directory
+
+```
+cd
+```
+
+go back
+
+```
+cd ..
+```
+
+into Directory
+
+```
+cd path
+```
+
+
+### Run Jekyll server
+
+```
+jekyll server
+```
+
+
+
+### git
+
+```
+git add .
+git commit -m "message"
+git push
+```
+
 > Nice to see you.
