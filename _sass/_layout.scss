@@ -194,7 +194,7 @@ display: table;
 clear: both;
 }
 .project {
-width: 100%;
+width: 33.33%;
 height: auto;
 float: left;
 vertical-align: middle;
@@ -202,9 +202,9 @@ box-sizing: border-box;
 padding: 10px;
 }
 
-@media only screen and (min-device-width: 500px) {
+@media only screen and (max-width: 500px) {
   .project {
-  width: 33.33%;
+  width: 100%;
   height: auto;
   float: left;
   vertical-align: middle;
@@ -218,6 +218,7 @@ width: 100%;
 height: auto;
 overflow: hidden;
 }
+
 .thumbnail img{
 width: 500px;
 height: auto;
